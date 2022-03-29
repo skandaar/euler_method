@@ -1,7 +1,7 @@
 # euler_method
 ## Programne : chute libre d'une bille dans un fluide
 ## Auteur : Yassine .T \<yass.tyme@gmail.com\>
-Ce programme utilise la methode d'Euler pour le calcul des vitesses< /br>
+Ce programme utilise la methode d'Euler pour le calcul des vitesses<br />
 d'une bille lors d'une chute libre dans un fluide< /br>
 voir [programme 2BACSPF](https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof#!)
 
