@@ -1,14 +1,15 @@
 # euler_method
 ## Programne : chute libre d'une bille dans un fluide
-## Auteur : Yassine .T <yass.tyme@gmail.com>
+## Auteur : Yassine .T \<yass.tyme@gmail.com\>
 Ce programme utilise la methode d'Euler pour le calcul des vitesses
 d'une bille lors d'une chute libre dans un fluide
 voir [programme 2BACSPF](https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof#!)
 
 La methode d'Euler permet de calculer la vitesse en utilisant
 une approche iterative. D'apres la deuxieme loi de Newton l'equation
-differentielle verifiee par la bille lors d'une chute libre est
-donnee par la formule : (I) dV/dt + Beta * V = Alpha (Alpha et Beta sont des constantes)
+differentielle verifiee par la bille lors d'une chute libre est donnee 
+par la formule : (I) dV/dt + Beta * V = Alpha (Alpha et Beta sont des constantes).
+
 Pour une bille de masse m = 0.02kg et un coefficient de frottement 
 k = x, l'equation (I) s'ecrit sous la forme : (II) dV/dt = 9.26 - 18.52 * V
 La relation (II) permet de calculer les accelerations a1, a2,...,an (n point) 
