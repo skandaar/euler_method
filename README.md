@@ -8,7 +8,7 @@ voir [programme 2BACSPF](https://www.alloschool.com/course/physique-et-chimie-2e
 La methode d'Euler permet de calculer la vitesse en utilisant<br />
 une approche iterative. D'apres la deuxieme loi de Newton l'equation<br />
 differentielle verifiee par la bille lors d'une chute libre est donnee<br /> 
-par la formule : (I) dV/dt + Beta * V = Alpha (Alpha et Beta sont des constantes).<br />
+par la formule : (I) $\frac{dv}{dt}$dV/dt + Beta * V = Alpha (Alpha et Beta sont des constantes).<br />
 
 Pour une bille de masse m = 0.02kg et un coefficient de frottement<br />
 k = x, l'equation (I) s'ecrit sous la forme : (II) dV/dt = 9.26 - 18.52 * V<br />
